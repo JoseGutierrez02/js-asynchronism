@@ -4,7 +4,7 @@
   "description": "This is repository created for a platzi course that i started on June 25th of 2025, to learn asynchronism on JavaScipt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JoseGutierrez02/js-asynchronism/issues"
   },
-  "homepage": "https://github.com/JoseGutierrez02/js-asynchronism#readme"
+  "homepage": "https://github.com/JoseGutierrez02/js-asynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
