@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/JoseGutierrez02/js-asynchronism#readme",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
